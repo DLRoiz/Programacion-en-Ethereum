@@ -59,31 +59,3 @@ contract LotEther {
       jugadores = new address payable[](0);
   }
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
